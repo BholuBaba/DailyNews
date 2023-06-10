@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US child gunshot ER visits surged during pandemic, CDC says",
+            "description": "Gun-related hospital visits rose all across the US, but young girls suffered the biggest increase.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65117908",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2754/production/_129186001_gettyimages-1403928834.jpg",
+            "publishedAt": "2023-03-30T18:52:21.736902Z",
+            "content": "The number of visits children made to the emergency room due to firearm injuries surged during the Covid-19 pandemic, according to a new study. \r\nThe number of hospital visits for gun injuries increa… [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia to offer food for North Korean weapons - US",
+            "description": "The US said any arms deal would violate UN Security Council resolutions.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65131117",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AE12/production/_129226544_864ccb1867e18927dc3d23766548086567015fce0_188_2200_12371000x563-1.jpg",
+            "publishedAt": "2023-03-30T17:22:18.9413364Z",
+            "content": "Russia is sending a delegation to North Korea to offer food in exchange for weapons, US national security spokesperson John Kirby has said.\r\nMr Kirby said any arms deal between North Korea and Russia… [+424 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Alexei Moskalev: Father of girl who drew anti-war picture arrested on run in Minsk",
+            "description": "After his 12-year-old daughter drew a picture, Alexei Moskalev was arrested and sentenced in Russia.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65129231",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4EB8/production/_129225102_masha'sdrawingcreditolgapodolskaya.jpg",
+            "publishedAt": "2023-03-30T16:37:19.2680073Z",
+            "content": "A man sentenced to jail in Russia after his daughter drew an \"anti-war\" picture has been caught in Belarus, after seemingly fleeing the country.\r\nAlexei Moskalev was given a two-year jail sentence in… [+2329 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Gutless': Congressional shouting match over guns",
+            "description": "A Democrat and Republican traded barbs in the halls of Congress after yet another school shooting.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65118220",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31D0/production/_129225721_p0fcyr8d.jpg",
+            "publishedAt": "2023-03-30T16:37:16.0344359Z",
+            "content": "'Gutless': Congressional shouting match over guns. Video, 00:01:02'Gutless': Congressional shouting match over guns"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nova Scotia mass shooting inquiry heavily criticises police response",
+            "description": "A report criticises the RCMP for failing to act in a way that could have prevented casualties.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65107912",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6538/production/_129221952_gettyimages-1210468640-1.jpg",
+            "publishedAt": "2023-03-30T15:52:18.955715Z",
+            "content": "An inquiry into the deadliest mass shooting in Canadian history has criticised police for failing to act quickly to prevent casualties. \r\nTwenty-two people were killed in the province of Nova Scotia … [+1812 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Gwyneth Paltrow ski trial jury to hear final arguments",
+            "description": "Lawyers representing the actress and retired eye doctor Terry Sanderson are to set out their closing arguments over the 2016 skiing accident.",
+            "url": "http://www.bbc.co.uk/news/live/world-us-canada-65127388",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-03-30T14:52:33.3006438Z",
+            "content": "Welcome to the final day of the celebrity ski crash court case of the century.\r\nIts been eight days of technical and specific expert witness testimony to figure out who crashed into who, and what inj… [+963 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Minnesota town evacuated after train derailment",
+            "description": "The train was carrying ethanol and corn syrup which has caused a large fire, local media reports.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65126508",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11884/production/_129221817_cbsfire2.png",
+            "publishedAt": "2023-03-30T12:07:23.6365816Z",
+            "content": "A town has been evacuated after a train derailment caused a fire in Kandiyohi County, Minnesota, CBS reports."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia detains US journalist Evan Gershkovich on suspicion of spying",
+            "description": "Evan Gershkovich was working for the Wall Street Journal, which is \"deeply concerned\" for his safety.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65121885",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E47B/production/_129219485_untitled-2-2-1.jpg",
+            "publishedAt": "2023-03-30T11:22:25.0812914Z",
+            "content": "A US journalist working for The Wall Street Journal has been detained in Russia on suspicion of espionage, the FSB security service says.\r\nEvan Gershkovich, an experienced Russia reporter, was workin… [+2775 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Spanish anger over TV star Ana Obregón's surrogate baby in US",
+            "description": "Ana Obregón comes in for criticism after news emerges she has had a baby girl via surrogacy in the US.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65122973",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B31/production/_129218888_gettyimages-1462240855.jpg",
+            "publishedAt": "2023-03-30T11:22:20.9623035Z",
+            "content": "Spanish TV actress Ana Obregón has come under fire after revealing that she has had a baby girl via surrogacy in the US at the age of 68.\r\nObregón is best known for starring in a number of Spanish si… [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kentucky helicopter crash: Deaths expected after military aircraft collision",
+            "description": "The military helicopters were involved in a routine training mission when the incident happened.",
+            "url": "http://www.bbc.co.uk/news/world-65121331",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2023-03-30T06:07:22.7105104Z",
+            "content": "A number of people are expected to have been killed after a US Army helicopter crash in Trigg County, Kentucky. \r\nThe state's Governor Andy Beshear said it was \"tough news\" with \"early reports of a h… [+646 chars]"
+        }
+    ]
+}
