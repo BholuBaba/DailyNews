@@ -10,7 +10,7 @@ export class News extends Component {
         country: "in",
         category: "general",
         apikey: process.env.REACT_APP_NEWSMONKEY_API_KEY,   //Key present in .env.local file
-        pageSize: 5
+        pageSize: 6
     }
     static propTypes = {
         url: PropTypes.string,
